@@ -1,0 +1,12 @@
+th{
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aqua;
+}
+table{
+    font-weight: 600;
+    font-family: monospace;
+    border-width: 1px;
+    border-style: solid;
+    border-color:black;
+}
